@@ -2,7 +2,15 @@
 name = "tits"
 version = "0.1.0"
 edition = "2021"
+license-file = "license.md"
+keywords = ["tits", "download", "internet", "async"]
+categories = ["filesystem"]
+description = "Teriffic Internet Transfer System"
+repository = "https://github.com/jdadonut/tits"
+homepage = "https://github.com/jdadonut/tits"
+readme = "readme.md"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
 
 [dependencies]
+
